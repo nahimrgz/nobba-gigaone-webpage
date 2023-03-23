@@ -39,8 +39,8 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   --clr-accent: #0d1857;
   --clr-accent-rgb: 13, 24, 87;
   /*================  secondary-color values */
-  --clr-secondary: #4820a7;
-  --clr-secondary-rgb: 72, 32, 167;
+  --clr-secondary: #C028B9;
+  --clr-secondary-rgb: 192, 40, 185;
   /*================  white-color values */
   --clr-white: #fff;
   --clr-white-rgb: 255, 255, 255;
@@ -320,7 +320,6 @@ a:hover {
   margin-bottom: 1.25rem;
   font-size: 1.1rem;
   font-weight: 400;
-  text-transform: capitalize;
   opacity: 0.75;
 }
 @media (max-width: 767px) {
@@ -643,6 +642,17 @@ a:hover {
 }
 
 /********* End Design Elements ****************/
+@media screen and (max-width: 900px) {
+  .sello-garantizado {
+    max-width: 115px;
+  }
+}
+@media screen and (min-width: 900px) {
+  .sello-garantizado {
+    max-width: 150px;
+  }
+}
+
 /*========== End Global Rules ==========*/
 /* Start video button animation*/
 @keyframes anim-pulses {
@@ -4287,7 +4297,7 @@ body.rounded-btns .read-more {
   background-color: var(--clr-main);
 }
 .pricing .plan.featured:before {
-  content: "most poupular";
+  content: "Más popular";
   display: inline-block;
   padding: 0.25rem 5rem;
   color: var(--clr-main);
