@@ -653,6 +653,18 @@ a:hover {
   }
 }
 
+.main-logo .light-logo {
+  display: none;
+}
+
+body.dark-theme .main-logo .light-logo {
+  display: block;
+}
+
+body.dark-theme .main-logo .dark-logo {
+  display: none;
+}
+
 /*========== End Global Rules ==========*/
 /* Start video button animation*/
 @keyframes anim-pulses {
