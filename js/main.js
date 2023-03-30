@@ -507,7 +507,7 @@ $(function () {
       itemSelector: ".portfolio-item",
       layoutMode: "fitRows",
       percentPosition: true,
-      filter: "*",
+      filter: ".residencial",
       stagger: 30,
       containerStyle: null,
     });

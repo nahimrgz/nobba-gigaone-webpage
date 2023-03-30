@@ -2205,9 +2205,9 @@ body.rounded-btns .read-more {
   margin-bottom: 2rem;
 }
 .services-boxed .service-box {
-  border-radius: 0.5rem;
   padding: 2rem;
-  border: 1px solid rgba(var(--clr-main-rgb), 0.35);
+  border-style: solid;
+  border-image: linear-gradient(45deg, rgb(192, 40, 185), rgb(245, 51, 63), rgb(255, 164, 0)) 1;
   box-shadow: 0px 0px 10px 0px rgba(var(--clr-dark-blue-rgb), 0.1);
 }
 .services-boxed .service-box::before {
@@ -4210,7 +4210,8 @@ body.rounded-btns .read-more {
 .pricing .plan {
   position: relative;
   overflow: hidden;
-  border: 1px solid rgba(var(--clr-main-rgb), 0.35);
+  border-style: solid;
+  border-image: linear-gradient(45deg, rgb(192, 40, 185), rgb(245, 51, 63), rgb(255, 164, 0)) 1;
   border-radius: 0.5rem 0.5rem 0 0;
   padding: 2rem 1rem;
   text-transform: capitalize;
