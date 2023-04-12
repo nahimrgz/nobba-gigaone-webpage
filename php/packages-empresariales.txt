@@ -1,0 +1,352 @@
+<div class="col-12  col-md-6  col-lg-4  portfolio-item comercial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">100 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">449<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+comercial+con+velocidad+de+descarga+de%3a+100+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item comercial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">200 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">599<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+comercial+con+velocidad+de+descarga+de%3a+200+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item comercial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">300 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">799<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+comercial+con+velocidad+de+descarga+de%3a+300+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item comercial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">500 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">1,199<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+comercial+con+velocidad+de+descarga+de%3a+500+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item comercial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">1 gbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">1,799<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+comercial+con+velocidad+de+descarga+de%3a+1+Gbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">50 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">3,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+50+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">100 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">4,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+100+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">200 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">6,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+200+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">300 Mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">8,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+300+Mbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">500 mbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">13,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+1+Gbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class="col-12  col-md-6  col-lg-4  portfolio-item empresarial">
+              <div class="item   ">
+                <section class="pricing   " id="pricing">
+                  <div class="container">
+                    <div class="row">
+                      <!--First Plan-->
+                      <div class="col-12 col-xl-10  mx-auto price-plan ">
+                        <div class="plan    ">
+                          <div class="plan-head"><i class="flaticon-nft-1 plan-icon"></i>
+                            <h4 class="plane-name">1 gbps</h4>
+                            <div class="plan-price">
+                              <h3 class="price">25,000<sup class="currency-symbol">$</sup></h3><span class="per">MXN /
+                                mes*</span>
+                            </div>
+                          </div>
+                          <div class="plan-details">
+                            <ul class="plan-list">
+                              <!-- <li class="plan-feat "> <span class="feat-text"> *Aplican restricciones y zona de cobertura.  </span></li> -->
+                            </ul>
+                          </div>
+                          <div class="plan-cta"><a class="cta-btn btn-outline " href="#contact-us">Lo quiero</a></div>
+                          <!-- <div class="plan-cta"><a class="cta-btn btn-outline "
+                              href="https://wa.me/+523329290915?text=%c2%a1Hola!+Me+interesa+contratar+el+paquete+empresarial+con+velocidad+de+descarga+de%3a+1+Gbps">Lo
+                              quiero</a></div> -->
+                          <!-- %c2%a1Hola!+Me+interesa+contratar+el+paquete+con+velocidad+de+descarga+de%3a+30+Mbps -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div> 
