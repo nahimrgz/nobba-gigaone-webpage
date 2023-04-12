@@ -2199,6 +2199,12 @@ body.rounded-btns .read-more {
   }
 }
 
+.no-border {
+  border: none !important;
+  padding: 2% !important;
+  box-shadow: none !important;
+}
+
 .services-boxed .services-row {
   margin-bottom: 2rem;
 }
