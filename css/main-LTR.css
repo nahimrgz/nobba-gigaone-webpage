@@ -2184,6 +2184,7 @@ body.rounded-btns .read-more {
   line-height: 1.5;
   margin: 0;
   opacity: 0.85;
+  text-align: justify;
 }
 @media (max-width: 991px) {
   .lifted-up-box.services-boxed .services-row {
