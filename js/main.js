@@ -510,6 +510,10 @@ $(function () {
       filter: ".residencial",
       stagger: 30,
       containerStyle: null,
+      masonry: {
+        columnWidth: 200,
+        isFitWidth: true
+        }
     });
   }
 
