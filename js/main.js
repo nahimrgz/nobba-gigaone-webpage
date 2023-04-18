@@ -501,21 +501,21 @@ $(function () {
   }
 
   /* *******  Loading the isotope plugin ********/
-  if (jQuery().isotope) {
-    portfolioGroup.isotope({
-      // options
-      itemSelector: ".portfolio-item",
-      layoutMode: "fitRows",
-      percentPosition: true,
-      filter: ".residencial",
-      stagger: 30,
-      containerStyle: null,
-      masonry: {
-        columnWidth: 200,
-        isFitWidth: true
-        }
-    });
-  }
+  // if (jQuery().isotope) {
+  //   portfolioGroup.isotope({
+  //     // options
+  //     itemSelector: ".portfolio-item",
+  //     layoutMode: "fitRows",
+  //     percentPosition: true,
+  //     filter: ".residencial",
+  //     stagger: 30,
+  //     containerStyle: null,
+  //     masonry: {
+  //       columnWidth: 200,
+  //       isFitWidth: true
+  //       }
+  //   });
+  // }
 
   /* *******  Start particles.js ********/
   if ($(".particles-js.dots").length) {
