@@ -101,7 +101,7 @@ if ($errorMSG == "") {
             $mail->Host = 'sukra.hosting-mexico.net'; //Set the SMTP server to send through
             $mail->SMTPAuth = true; //Enable SMTP authentication
             $mail->Username = 'webpage@gigaone.mx'; //SMTP username
-            $mail->Password = 'g-@6f.L&iPD2'; //SMTP password
+            $mail->Password = ''; //SMTP password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; //Enable implicit TLS encryption
             // $mail->Port = 587; //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
             $mail->Port = 465; //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
